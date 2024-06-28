@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "mcp1": "^1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manhcuongsev/mcp1"
+  },
+  "keywords": [
+    "IoT",
+    "Arduino",
+    "TypeScript",
+    "JavaScript",
+    "Robotics",
+    "edison",
+    "edison.ts",
+    "edison.js"
+  ],
+  "author": "manhcuongsev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manhcuongsev/mpc1/issues"
+  },
+  "homepage": "https://github.com/manhcuongsev/mcp1#readme"
+}
