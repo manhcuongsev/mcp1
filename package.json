@@ -1,25 +1,21 @@
 {
+  "name": "mcp1",
+  "version": "1.0.1",
+  "description": "Here i'm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mcp_02"
+  ],
+  "author": "mcp_02",
+  "license": "ISC",
   "dependencies": {
-    "mcp1": "^1.0.1"
+    "mcp_02": "^1.0.1"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/manhcuongsev/mcp1"
-  },
-  "keywords": [
-    "IoT",
-    "Arduino",
-    "TypeScript",
-    "JavaScript",
-    "Robotics",
-    "edison",
-    "edison.ts",
-    "edison.js"
-  ],
-  "author": "manhcuongsev",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/manhcuongsev/mpc1/issues"
-  },
-  "homepage": "https://github.com/manhcuongsev/mcp1#readme"
+  }
 }
